@@ -1,0 +1,19 @@
+{
+    "moves": [
+        {
+            "name": "rock",
+            "image": "rock.png",
+            "beats": "scissors"
+        },
+        {
+            "name": "paper",
+            "image": "paper.png",
+            "beats": "rock"
+        },
+        {
+            "name": "scissors",
+            "image": "scissors.png",
+            "beats": "paper"
+        }
+    ]
+}
